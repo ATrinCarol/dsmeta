@@ -1,6 +1,6 @@
-import './styles.css'
+import './styles.css';
 
-import icon from '../../assets/img/logoDSMeta.svg'
+import icon from '../../assets/img/logoDSMeta.svg';
 
 function Header() {
     return (
@@ -16,4 +16,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;

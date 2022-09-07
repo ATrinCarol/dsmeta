@@ -1,6 +1,6 @@
-import './styles.css'
+import './styles.css';
 
-import icon from '../../assets/img/botaoSMS.svg'
+import icon from '../../assets/img/botaoSMS.svg';
 
 function NotificationButton() {
     return (
@@ -12,4 +12,4 @@ function NotificationButton() {
     )
 }
 
-export default NotificationButton
+export default NotificationButton;
